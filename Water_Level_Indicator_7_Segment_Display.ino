@@ -1,6 +1,6 @@
 //  Water Level Indicator using Arduio and Seven Segment Display  by
 
-//  SNNY Hack & Sci
+
 
 //   Copy this whole page/code and paste it on Arduino IDE on your PC
 
